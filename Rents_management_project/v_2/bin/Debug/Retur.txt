@@ -1,0 +1,5 @@
+100	Hangover 3	Lapadutoniu	02.05.2022 00:00:00	25	250	
+101	Ted 2		Birau		03.05.2022 00:00:00	24	240	
+102	The Northman	Afim		26.05.2022 00:00:00	1	10	
+103	Hangover 3	Dinu		19.05.2022 00:00:00	8	80	
+104	Gladiator	Dumitrescu	25.05.2022 00:00:00	3	30	

@@ -1,0 +1,6 @@
+100	Birau	      	 Florentina	20	Bulevardul Magheru nr.78	
+101	Lapadutoniu    	 Robert		18	Artarului nr.20	
+102	Afim	         Alexandru	18	Aleea Florilor nr.5	
+103	Tomescu	      	 Adrian		20	Calea Vacaresti nr.20	
+104	Dumitrescu	 Elena		19	Carol Davila nr.78	
+105	Cantemir	 Andreea	19	Splaiul Unirii nr.3	

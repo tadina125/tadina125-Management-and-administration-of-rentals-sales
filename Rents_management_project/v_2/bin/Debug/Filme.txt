@@ -1,0 +1,21 @@
+105	Comedy		Ted 2		2015	30	Disponibil	
+106	Comedy		Hangover 3	2013	25	Disponibil	
+107	Comedy		The Dictator	2012	20	Disponibil	
+108	Drama		The Northman	2022	25	Disponibil	
+109	Drama		Firestarter	2022	20	Disponibil	
+110	Drama		Vertigo		1958	20	Disponibil	
+111	Drama		Moonlight	2016	25	Disponibil	
+112	Drama		Gladiator	2000	30	Disponibil	
+113	Thriller	Shutter Island	2010	30	Disponibil	
+114	Thriller	The Beguiled	2017	20	Disponibil	
+115	Thriller	Red Dragon	2002	25	Disponibil	
+116	Thriller	Run		2020	30	Disponibil	
+117	Action/SF	Inception	2010	30	Disponibil	
+118	Action/SF	Interstellar	2014	30	Disponibil	
+119	Action/SF	Dune		2021	35	Disponibil	
+120	Action/SF	Moonfall	2022	25	Disponibil	
+100	Horror		Case		2014	20	Disponibil	
+101	Horror		The Conjuring 2	2009	25	Disponibil	
+102	Horror		Saint Maud	2016	30	Disponibil	
+103	Comedy		Safety Last!	1923	20	Disponibil	
+104	Comedy		Local Hero	1983	20	Disponibil	
